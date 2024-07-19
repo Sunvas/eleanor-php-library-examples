@@ -14,10 +14,10 @@ echo<<<HTML
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Uncoditional cache :: Eleanor PHP Library demo</title>
+	<title>Unconditional cache :: Eleanor PHP Library demo</title>
 </head>
 <body>
-	<h1>Uncoditional cache</h1>
+	<h1>Unconditional cache</h1>
 	<p>This page will be cached on your browser for 1 hour. Current date on server: {$date}</p>
 </body>
 </html>
